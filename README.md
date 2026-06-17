@@ -80,7 +80,3 @@ On first use it runs setup: it detects your component paths, tokens, and the typ
 ## Composes with
 
 `accessibility-review` for the WCAG pass, `design-system` for integrity and drift, the Figma MCP and figma-console tools for parity and accessibility checks, and a UX-writing pass so the copy in the build is not slop either. These are optional enhancers. The skill works without them; where they are installed it uses them instead of reinventing their checks.
-
-## The name
-
-High Plains Drifter is the 1973 Clint Eastwood western, and, less obviously, a track on the Beastie Boys' Paul's Boutique. So it is a quiet sibling to ill-communication, another skill named from the same record collection. The fit: a lone stranger rides into a town that has drifted into disorder, sets it straight, and leaves. Swap the town for a codebase that has drifted away from its design system and you have the skill. It brings the drift into line, then rides out.
