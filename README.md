@@ -1,4 +1,4 @@
-# high-plains-drifter
+<img width="1600" height="560" alt="High plains drifter, cluade skill" src="https://github.com/user-attachments/assets/1a2903a7-61f2-49f1-b074-ee4ca1fccbfa" /><br>
 
 **Rides into the drift between your design and your code, and brings them into line.**
 
